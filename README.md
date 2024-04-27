@@ -1,4 +1,6 @@
 # vpkextractor
+**Based on [VPK](https://github.com/ValvePython/vpk) python library.**
+
 Python script for extracring VPK (Valve Package) format files. <br>
 Tested on Termux (Android) and Windows. (Python 3.12.1) 
 
