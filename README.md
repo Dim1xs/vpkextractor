@@ -20,3 +20,4 @@ pip3 install -r requirements.txt
 cd vpkextractor
 python extractor.py
 ```
+[TERMUX VIDEO TUTORIAL | EN](https://youtu.be/yLzBlhhG-z8)
